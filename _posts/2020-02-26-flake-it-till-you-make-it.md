@@ -11,3 +11,7 @@ author: Ingrid Diaz
 
 What an undergraduate research on trade paper taught me about real research
 I set out to measure whether NAFTA significantly boosted Canadian exports of fruits and vegetables to the U.S. What I found was more nuanced: trade clearly expanded, but isolating the precise effect of policy from GDP growth, prices, exchange rates, and time trends was harder than expected. That experience taught me that good research is not about forcing certainty — it is about asking a clear question, building a reasonable model, and being transparent about what the evidence actually supports.
+
+<a class="btn btn-primary" href="/assets/documents/[Overview of the Determinants in Canadian Exports.pdf](../assets/documents/"Overview of the Determinants in Canadian Exports.pdf" target="_blank" rel="noopener">
+  View Document
+</a>
