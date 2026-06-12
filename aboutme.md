@@ -6,10 +6,6 @@ subtitle: Why you'd want to hire me
 
 ---
 
-layout: page
-title: About Me
-subtitle: Data, systems, and the occasional spreadsheet adventure
------------------------------------------------------------------
 
 Hi, I’m Ingrid.
 
