@@ -5,7 +5,7 @@ subtitle: by Sargent and Wallace
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/house.png
 share-img: /assets/img/path.jpg
-tags: [document]
+tags: [document, Sar_Wall]
 author: Ingrid Diaz
 ---
 
