@@ -22,7 +22,8 @@ author: Ingrid Diaz
 navbar-links:
   About Me: "/"
   Blog: "/blog/"
-  #Resources:
+  Resume: "/assets/resume.pdf"
+
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://github.com/IngridsLeudatum"
