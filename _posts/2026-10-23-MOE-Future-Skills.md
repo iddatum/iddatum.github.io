@@ -13,7 +13,7 @@ This was for a job application for the Ministry of Education in British Columbia
 
 
 <a class="btn btn-primary"
-href="/assets/documents/MPSEFuture%20Skills.pdf"
+href="/assets/documents/MPSEFuture_Skills.pdf"
 target="_blank"
 rel="noopener">
 View Document
