@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BC Ministry of Education Cost Analysis of Obtaining Education Project
+title: BC Ministry of Education Cost-Benefit Analysis of Obtaining a Secondary Education
 subtitle: Small cost-benefit analysis of obtaining post secondary education in British Columbia
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -13,7 +13,7 @@ This was for a job application for the Ministry of Education in British Columbia
 
 
 <a class="btn btn-primary"
-href="/assets/documents/MPSE&Future%20Skills.pdf"
+href="/assets/documents/MPSEFuture%20Skills.pdf"
 target="_blank"
 rel="noopener">
 View Document
