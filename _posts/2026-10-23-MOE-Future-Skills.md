@@ -3,7 +3,7 @@ layout: post
 title: BC Ministry of Education Cost-Benefit Analysis of Obtaining a Secondary Education
 subtitle: Small cost-benefit analysis of obtaining post secondary education in British Columbia
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/books.jpg
 share-img: /assets/img/path.jpg
 tags: [document]
 author: Ingrid Diaz
