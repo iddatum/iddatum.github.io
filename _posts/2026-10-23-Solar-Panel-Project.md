@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solar Panel for Home Project
+title: Evaluating the Household Economic Impact of Solar Panel Installation
 subtitle: A quest onto the inquiry of installing a solar panel system in my own home.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
