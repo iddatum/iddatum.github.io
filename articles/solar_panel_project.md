@@ -255,29 +255,29 @@ Second, to the potential downside would be needing a roof replacement or major r
 
 Ultimately, transitioning to solar energy in Southwestern Ontario is less about the availability of sunshine and more about the initial costs of the investment. For this project, I will assume a 3% annual increase in electricity prices, since it’s the more conservative scenario. I will also assume an installation cost of \$15,756, which would result in an estimated annualized return of 2% on my investment. This is comparable to the return on a low-yield investment held in a savings Account. Shopping around is the best option and could be a game changer, as it could reduce the initial costs considerably. Would I consider this investment? Yes, as long as I stay below the \$15,000 cost threshold.
 
-[^1]: https://www.repsol.com/en/energy-move-forward/energy/types-of-solar-panels/index.cshtml
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^1]: [*https://www.repsol.com/en/energy-move-forward/energy/types-of-solar-panels/index.cshtml*](https://www.repsol.com/en/energy-move-forward/energy/types-of-solar-panels/index.cshtml)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^2]: https://solarcalculatorcanada.org/blog/how-many-solar-panels-ontario
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^2]: [*https://solarcalculatorcanada.org/blog/how-many-solar-panels-ontario*](https://solarcalculatorcanada.org/blog/how-many-solar-panels-ontario)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^3]: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^3]: [*https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^4]: Numbers in parenthesis means net deficit in consumption for that month.
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^4]: [*Numbers in parenthesis means net deficit in consumption for that month.*]
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^5]: https://solarcalculatorcanada.org/solar-ontario
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^5]: [*https://solarcalculatorcanada.org/solar-ontario*](https://solarcalculatorcanada.org/solar-ontario)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^6]: Internal Rate of Return (IRR) is a financial metric used to estimate the profitability of potential investments. It represents the annual rate of growth that an investment is expected to generate, taking into account both the initial upfront cost and the cash inflows/savings generated over time.
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^6]: (Internal Rate of Return (IRR) is a financial metric used to estimate the profitability of potential investments. It represents the annual rate of growth that an investment is expected to generate, taking into account both the initial upfront cost and the cash inflows/savings generated over time.)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^7]: https://essexpowerlines.ca/accounts-services/billing/rates/
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^7]: [*https://essexpowerlines.ca/accounts-services/billing/rates/*](https://essexpowerlines.ca/accounts-services/billing/rates/)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^8]: https://www.santansolar.com/product/new-grade-b-canadian-solar-525w-bifacial-solar-panel/
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^8]: [*https://www.santansolar.com/product/new-grade-b-canadian-solar-525w-bifacial-solar-panel/*](https://www.santansolar.com/product/new-grade-b-canadian-solar-525w-bifacial-solar-panel/)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
 
 [^9]: [*https://www.marketwatch.com/investing/bond/tmbmkca-20y?countrycode=bx*](https://www.marketwatch.com/investing/bond/tmbmkca-20y?countrycode=bx)
     {: style="font-size: 13px; color: #777; text-align: left;"}
