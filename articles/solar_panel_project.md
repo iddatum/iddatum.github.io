@@ -279,5 +279,5 @@ Ultimately, transitioning to solar energy in Southwestern Ontario is less about 
 [^8]: https://www.santansolar.com/product/new-grade-b-canadian-solar-525w-bifacial-solar-panel/
 {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^9]: https://www.marketwatch.com/investing/bond/tmbmkca-20y?countrycode=bx
-{: style="font-size: 13px; color: #777; text-align: left;"}
+[^9]: [*https://www.marketwatch.com/investing/bond/tmbmkca-20y?countrycode=bx*](https://www.marketwatch.com/investing/bond/tmbmkca-20y?countrycode=bx)
+    {: style="font-size: 13px; color: #777; text-align: left;"}
