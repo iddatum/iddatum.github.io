@@ -3,8 +3,6 @@ layout: page
 permalink: /articles/solar-panel-project/
 ---
 
-### Evaluating the Household Economic Impact of Solar Panel Installation
-
 ## *In Southwestern Ontario*
 
 **By: Ingrid Diaz**
