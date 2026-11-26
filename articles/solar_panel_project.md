@@ -39,7 +39,8 @@ For residential properties, solar system sizes can range from 3-kW to 15-kW with
 #### Table 1 - Panel Count by System Size (Ontario)[^2]
 
 ![Table 1](/assets/img/solar/image1.png)
-Figure 1 - Solar Panel System Sizes, Panel Counts, Yearly Output and Bill Offset per Month.
+
+*Figure 1 - Solar Panel System Sizes, Panel Counts, Yearly Output and Bill Offset per Month.*
 
 The table above shows the different system sizes and annual production, average monthly offset of installing a system size with their respective panel count. The average Gigajoules per household consumed in Ontario in 2021 was 30 Gigajoules of electricity, or 8,333 kWh.[^3] That means a 7-kW system would suffice for the average household in Ontario.
 
@@ -59,7 +60,8 @@ The next part of the evaluation takes into consideration the approximate output 
 #### Table 2 – Expected Output by Season of a 5-kW and 6-kW System in Southern Ontario
 
 ![Table 2](/assets/img/solar/image2.png)
-Figure 2 - Expected Output for Solar Panel System (IESO).
+
+*Figure 2 - Expected Output for Solar Panel System (IESO).*
 
 The below Table 3 is a sample of historical monthly electricity consumption data over the past six years, for a small household of three, broken down by month. I will calculate the average monthly consumption and subtract the expected solar energy production to determine our net electricity usage, as shown in Table 4.
 
@@ -70,12 +72,14 @@ At this stage, our analysis hasn’t accounted for the costs of purchasing, inst
 #### Table 3 – Historical Monthly Usage of Electricity Total kWh/Month
 
 ![Table 3](/assets/img/solar/image3.png)
-Figure 3 - Historical Monthly Electricity Usage.
+
+*Figure 3 - Historical Monthly Electricity Usage.*
 
 #### Table 4 – Expected Output per Year of a 6-Kilowatt System vs a 5-Kilowatt System[^4]
 
 ![Table 4](/assets/img/solar/image4.png)
-Figure 4 - Expected Output - Average Usage of a 6-Kilowatt vs a 5-Kilowatt System. Numbers inside parenthesis are deficits in consumption. Items not in brackets are a net surplus (this means credits are earned).*
+
+*Figure 4 - Expected Output - Average Usage of a 6-Kilowatt vs a 5-Kilowatt System. Numbers inside parenthesis are deficits in consumption. Items not in brackets are a net surplus (this means credits are earned).*
 
 
 ## Electric Bills Forecast
@@ -93,12 +97,14 @@ For the forecast, I have decided to use annual electricity bill increases of 3% 
 #### Table 5 – Bills and Electricity Rates
 
 ![Table 5](/assets/img/solar/image5.png)
-Figure 5 - Rates as per Electric company
+
+*Figure 5 - Rates as per Electric company*
 
 #### Table 6 – Annual Electricity Bill Forecast for the Next 10 Years
 
 ![Table 6](/assets/img/solar/image6.png)
-Figure 6 - Electricity Bills Forecast Next 10 Years at 3% and 5% Electricity Bill Growth Scenarios.
+
+*Figure 6 - Electricity Bills Forecast Next 10 Years at 3% and 5% Electricity Bill Growth Scenarios.*
 
 ## A First Look at the Cash Flows
 
@@ -112,7 +118,8 @@ My estimates are very aggressive. Even with a 5% annual increase in electricity 
 #### Table 7 – IRR[^6] for 7, 6 and 5-Kilowatt Systems with a \$180 cost of Maintenance
 
 ![Table 7](/assets/img/solar/image7.png)
-Figure 7 - Internal Rate of Return for an Ordinary Cash Flow for 7, 6 and 5-kW Systems with \$180 Maintenance and Assuming 3% and 5% Annual Electricity Bill Growth.
+
+*Figure 7 - Internal Rate of Return for an Ordinary Cash Flow for 7, 6 and 5-kW Systems with \$180 Maintenance and Assuming 3% and 5% Annual Electricity Bill Growth.*
 
 Next, we will refine our analysis through a re-evaluation of energy needs and more detailed information on the costs involved in purchasing, installing and servicing all the components needed.
 
@@ -218,7 +225,8 @@ By the end of the 21-year projection, the solar investment would have generated 
 #### Table 8 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 3% Annual Electricity-Bill Growth and 4% Discount Rate
 
 ![Table 8](/assets/img/solar/image8.png)
-Figure 8 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 3% Annual Electricity-Bill Growth. In Blue: Net 4% IRR = 4% Discount Rate.
+
+*Figure 8 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 3% Annual Electricity-Bill Growth. In Blue: Net 4% IRR = 4% Discount Rate.*
 
 For the 5% scenario, things look even more optimistic. The break-even point occurs in Year 10 (in yellow) for the lowest-cost scenario and Year 16 for the middle-cost scenario. However, when comparing the returns against our 4% discount rate, the break-even point would fall somewhere between Years 12 and 20. That is, if I had invested my money elsewhere at a 4% annual return, my solar investment would reach a comparable return sometime between Years 12 and 20, assuming that the total system installation costs were somewhere between \$9,816 and \$15,756.
 
@@ -227,7 +235,8 @@ The turnkey scenario still generates a positive return of 1%. The rates of retur
 #### Table 9 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 5% Annual Electricity-Bill Growth and 4% Discount Rate
 
 ![Table 9](/assets/img/solar/image9.png)
-Figure 9 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 5% Annual Electricity-Bill Growth. In Blue: Net 4% IRR = 4% Discount Rate.
+
+*Figure 9 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 5% Annual Electricity-Bill Growth. In Blue: Net 4% IRR = 4% Discount Rate.*
 
 ## Conclusion
 
