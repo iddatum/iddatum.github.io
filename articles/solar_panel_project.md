@@ -264,13 +264,13 @@ Ultimately, transitioning to solar energy in Southwestern Ontario is less about 
 [^3]: [*https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001)
     {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^4]: [*Numbers in parenthesis means net deficit in consumption for that month.*]
+[^4]: Numbers in parenthesis means net deficit in consumption for that month.
     {: style="font-size: 13px; color: #777; text-align: left;"}
 
 [^5]: [*https://solarcalculatorcanada.org/solar-ontario*](https://solarcalculatorcanada.org/solar-ontario)
     {: style="font-size: 13px; color: #777; text-align: left;"}
 
-[^6]: (Internal Rate of Return (IRR) is a financial metric used to estimate the profitability of potential investments. It represents the annual rate of growth that an investment is expected to generate, taking into account both the initial upfront cost and the cash inflows/savings generated over time.)
+[^6]: Internal Rate of Return (IRR) is a financial metric used to estimate the profitability of potential investments. It represents the annual rate of growth that an investment is expected to generate, taking into account both the initial upfront cost and the cash inflows/savings generated over time.
     {: style="font-size: 13px; color: #777; text-align: left;"}
 
 [^7]: [*https://essexpowerlines.ca/accounts-services/billing/rates/*](https://essexpowerlines.ca/accounts-services/billing/rates/)
