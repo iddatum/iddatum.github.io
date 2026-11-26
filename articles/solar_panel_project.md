@@ -111,6 +111,7 @@ For the forecast, I have decided to use annual electricity bill increases of 3% 
 *Figure 6 - Electricity Bills Forecast Next 10 Years at 3% and 5% Electricity Bill Growth Scenarios.*
 {: style="font-size: 13px; color: #777; text-align: left;"}
 
+
 ## A First Look at the Cash Flows
 
 Next, we will evaluate the cash flows for three different solar panel systems. The three system sizes considered in this analysis are a 7-kW system, which seems capable of covering 100% of our electricity needs; a 6-kW system, which would still generate a surplus; and a 5-kW system, which would leave us with a net deficit. Since we have a net-metering system in place, there is no need to include battery storage in this analysis, as the cost of a battery would significantly increase the overall expenses.
