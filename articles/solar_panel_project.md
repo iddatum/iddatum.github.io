@@ -5,8 +5,10 @@ permalink: /articles/solar-panel-project/
 ---
 
 ## *In Southwestern Ontario*
+{: style="text-align: center;"}
 
 **By: Ingrid Diaz**
+{: style="text-align: center;"}
 
 If you are curious about adding solar panels, understand more about bills, and finding out how to evaluate this kind of investment for your home.
 
