@@ -39,6 +39,7 @@ For residential properties, solar system sizes can range from 3-kW to 15-kW with
 ![Table 1](/assets/img/solar/image1.png)
 
 *Figure 1 - Solar Panel System Sizes, Panel Counts, Yearly Output and Bill Offset per Month.*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 The table above shows the different system sizes and annual production, average monthly offset of installing a system size with their respective panel count. The average Gigajoules per household consumed in Ontario in 2021 was 30 Gigajoules of electricity, or 8,333 kWh.[^3] That means a 7-kW system would suffice for the average household in Ontario.
 
