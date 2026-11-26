@@ -18,3 +18,6 @@ target="_blank"
 rel="noopener">
 View Document
 </a>
+<a class="btn btn-primary" href="/articles/solar-panel-project/">
+Read Article Online
+</a>
