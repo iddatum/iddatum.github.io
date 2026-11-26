@@ -63,6 +63,7 @@ The next part of the evaluation takes into consideration the approximate output 
 ![Table 2](/assets/img/solar/image2.png)
 
 *Figure 2 - Expected Output for Solar Panel System (IESO).*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 The below Table 3 is a sample of historical monthly electricity consumption data over the past six years, for a small household of three, broken down by month. I will calculate the average monthly consumption and subtract the expected solar energy production to determine our net electricity usage, as shown in Table 4.
 
@@ -75,13 +76,14 @@ At this stage, our analysis hasn’t accounted for the costs of purchasing, inst
 ![Table 3](/assets/img/solar/image3.png)
 
 *Figure 3 - Historical Monthly Electricity Usage.*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 #### Table 4 – Expected Output per Year of a 6-Kilowatt System vs a 5-Kilowatt System[^4]
 
 ![Table 4](/assets/img/solar/image4.png)
 
 *Figure 4 - Expected Output - Average Usage of a 6-Kilowatt vs a 5-Kilowatt System. Numbers inside parenthesis are deficits in consumption. Items not in brackets are a net surplus (this means credits are earned).*
-
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 ## Electric Bills Forecast
 
@@ -100,12 +102,14 @@ For the forecast, I have decided to use annual electricity bill increases of 3% 
 ![Table 5](/assets/img/solar/image5.png)
 
 *Figure 5 - Rates as per Electric company*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 #### Table 6 – Annual Electricity Bill Forecast for the Next 10 Years
 
 ![Table 6](/assets/img/solar/image6.png)
 
 *Figure 6 - Electricity Bills Forecast Next 10 Years at 3% and 5% Electricity Bill Growth Scenarios.*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 ## A First Look at the Cash Flows
 
@@ -121,6 +125,7 @@ My estimates are very aggressive. Even with a 5% annual increase in electricity 
 ![Table 7](/assets/img/solar/image7.png)
 
 *Figure 7 - Internal Rate of Return for an Ordinary Cash Flow for 7, 6 and 5-kW Systems with \$180 Maintenance and Assuming 3% and 5% Annual Electricity Bill Growth.*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 Next, we will refine our analysis through a re-evaluation of energy needs and more detailed information on the costs involved in purchasing, installing and servicing all the components needed.
 
@@ -228,6 +233,7 @@ By the end of the 21-year projection, the solar investment would have generated 
 ![Table 8](/assets/img/solar/image8.png)
 
 *Figure 8 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 3% Annual Electricity-Bill Growth. In Blue: Net 4% IRR = 4% Discount Rate.*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 For the 5% scenario, things look even more optimistic. The break-even point occurs in Year 10 (in yellow) for the lowest-cost scenario and Year 16 for the middle-cost scenario. However, when comparing the returns against our 4% discount rate, the break-even point would fall somewhere between Years 12 and 20. That is, if I had invested my money elsewhere at a 4% annual return, my solar investment would reach a comparable return sometime between Years 12 and 20, assuming that the total system installation costs were somewhere between \$9,816 and \$15,756.
 
@@ -238,6 +244,7 @@ The turnkey scenario still generates a positive return of 1%. The rates of retur
 ![Table 9](/assets/img/solar/image9.png)
 
 *Figure 9 - Projected 21-Year Cash Flows and Internal Rates of Return (IRR) for a 5-kW Solar Panel System, Assuming 5% Annual Electricity-Bill Growth. In Blue: Net 4% IRR = 4% Discount Rate.*
+{: style="font-size: 13px; color: #777; text-align: left;"}
 
 ## Conclusion
 
