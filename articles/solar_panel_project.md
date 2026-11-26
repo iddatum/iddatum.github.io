@@ -167,7 +167,6 @@ I focused my cost analysis on a 5-kWh system for two reasons: my roof can't fit 
 
 The contractor mentioned a local company called Canadian Solar. I went on their website and found they sell panels at various price levels and can cost \$160 per panel[^8]. I would need 11 panels; my main hardware stack looks like this:
 
-### 
 
 ### Hardware:
 
